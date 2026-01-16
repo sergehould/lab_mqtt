@@ -1,6 +1,6 @@
 /*
  * Description:
- * Template for _lab3  
+ * Template for lab3  
  * 
  * 
 */
